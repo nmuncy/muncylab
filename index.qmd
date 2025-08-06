@@ -1,0 +1,48 @@
+---
+title: "Nathan Muncy, Ph.D."
+subtitle: "Assistant Research Professor | Cognitive Neuroscience"
+image: media/muncy_head.png
+# author:
+#   name: "Nathan Muncy"
+#   email: "nmuncy@nd.edu"
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  image-width: 15em
+  # links:
+  #     - icon: email
+  #       text: email
+  #       href: nmuncy@nd.edu
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com/nmuncy
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+---
+
+## About
+
+I use structural, functional, and diffusion MRI methods to study topics ranging from memory to traumatic brain injury. I am also interested in the application of diverse statistical techniques to cognitive neuroscientific questions.
+
+
+## Contact
+__Email__\
+nmuncy at nd dot edu
+
+__Address__\
+E308 Corbett Family Hall\
+University of Notre Dame\
+South Bend, IN 46556
+
+
+<!-- ## Education
+
+* Postdoctoral Fellow | Duke University, Durham NC | 2022 - 2024
+* Postdoctoral Fellow | Florida International University, Miami FL | 2020 - 2022
+* Ph.D. Cognitive Neuroscience | Brigham Young University, Provo UT | 2016 - 2020
+* M.Sc. Neuroscience | Brigham Young University, Provo UT | 2014 - 2016
+* B.Sc. Psychology | Brigham Young University-Idaho, Rexburg ID | 2009 - 2013 -->
+
+<!-- ## Experience
+
+Workplace \| Job title \| April 20XX - present -->

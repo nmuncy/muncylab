@@ -1,0 +1,17 @@
+---
+title: Publications
+---
+
+1. Discrete pre-processing step effects in registration-based pipelines, a preliminary volumetric study on T1-weighted images. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186071)
+1. A direct comparison between ERP and fMRI measurements of food-related inhibitory control: Implications for BMI status and dietary intake. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1053811917309126)
+1. Linguistic networks associated with lexical, semantic and syntactic predictability in reading: A fixation-related fMRI study. [Link](https://www.sciencedirect.com/science/article/pii/S1053811919300187?casa_token=2lt_FKKIRs0AAAAA:ggud3s00lEhhKb_Qw77T5UXl5aB93JQ5bmlqxMCTe3iJPI85hAyJS4Hsk2z5z1DSYsCrAnBI)
+1. The effects of sleep on the neural correlates of pattern separation [Link](https://onlinelibrary.wiley.com/doi/10.1002/hipo.22814)
+1. Sleep duration differentially affects brain activation in response to food images in adolescents with overweight/obesity compared to adolescents with normal weight Get access Arrow. [Link](https://academic.oup.com/sleep/article-abstract/42/4/zsz001/5288493?redirectedFrom=fulltext)
+1. Acute after-school screen time in children decreases impulse control and activation toward high-calorie food stimuli in brain regions related to reward and attention. [Link](https://link.springer.com/article/10.1007/s11682-019-00244-y)
+1. Neural mechanisms that promote food consumption following sleep loss and social stress: an fMRI study in adolescent girls with overweight/obesity. [Link](https://academic.oup.com/sleep/article/45/3/zsab263/6418083)
+1. Pattern separation beyond the hippocampus: A high-resolution whole-brain investigation of mnemonic discrimination in healthy adults. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.23299)
+1. General additive models address statistical issues in diffusion MRI: An example with clinically anxious adolescents. [Link](https://www.sciencedirect.com/science/article/pii/S221315822200002X)
+
+### File Drawer
+1. Correcting False Memories: The Effect of Mnemonic Generalization on Original Memory Traces. [Link](https://www.biorxiv.org/content/10.1101/2020.04.13.039479v2)
+1. The Medial Temporal Lobe Supports Mnemonic Discrimination For Event Duration. [Link](https://www.biorxiv.org/content/10.1101/2020.04.13.039545v4)

@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with Quarto"
+  navbar:
+    title: false
+    logo: media/nd_logo.png
+    right:
+      - text: Courses
+        href: pages/courses.qmd
+      - text: Papers
+        href: pages/publications.qmd
+      # - text: Presentations
+      #   href: pages/presentations.qmd
+      # - text: Wiki
+      #   href: pages/wiki.qmd
+      - text: CV
+        href: resources/CV_Nathan_Muncy.pdf
+    tools:
+      - icon: github
+        href: https://github.com/nmuncy
+
+format:
+  html:
+    backgroundcolor: "#D3D3D3"
+    fontcolor: "#0c2340"
+    linkcolor: "#ae9142"
+    # mainfont: "adobe garamond premier"
+    theme: [cosmo, styles.scss]
+
