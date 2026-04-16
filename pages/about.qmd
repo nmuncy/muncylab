@@ -1,0 +1,26 @@
+---
+title: About
+---
+
+Our research is driven by the philosophy that context (e.g. structural, socioeconomic, geographic, etc.) interacts with neurobiology to influence both how a person recovers from injury; these factors don't determine a person's path, but they do significantly shift the probabilities of how they flourish.
+
+## Research Philosophy & Interests
+
+We are interested in translational research that bridges the gap between the environment and biology. By modeling the interplay between socioeconomic factors, neurological health, and cognitive performance, we aim to understand why some individuals flourish while others struggle following a Traumatic Brain Injury (TBI). Our goal is to identify the critical environmental and biological levers that drive recovery and long-term well-being.
+
+## Key Contributions & Methodologies
+
+Our lab leverages advanced computational techniques and massive datasets to redefine how we understand brain architecture and injury:
+
+- **Methodological Innovation**: We utilize Topologic Data Analysis (TDA) to move beyond traditional discrete thresholding. This provides a multiscale, topologic description of neural systems, allowing us to identify phase transitions and persistent features in brain organization.
+- **Advanced Statistics**: To handle the heterogeneity of real-world recovery data, we employ Generalized Additive Models (GAMs). This allows us to resolve complex non-linear interactions and non-Gaussian distributions inherent in longitudinal TBI research.
+- **Large-Scale Data Science**: Our findings are grounded in high-powered analysis, leveraging national databases with a combined total of over 32,750 subjects.
+- **Holistic Modeling**: We don't just look at scans; we look at the world. Our research incorporates geospatial and demographic contexts to understand how variables like geography and socioeconomic status create differential recovery outcomes.
+
+## Institutional Support & Mentorship
+
+Beyond independent research, Dr. Muncy is committed to elevating the university's research infrastructure. We support the Neuroscience and Behavior component of Notre Dame’s Health and Well-Being Initiative through:
+
+1. **Technical Oversight**: Implementing and refining MRI research programs across the department.
+1. **Mentorship**: Providing instruction and shared reference materials for researchers navigating core MRI methodologies.
+

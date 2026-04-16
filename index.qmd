@@ -1,0 +1,34 @@
+---
+title: "Nathan M. Muncy, Ph.D."
+subtitle: "Assistant Research Professor | Cognitive Neuroscience"
+image: media/muncy_head.jpg
+author:
+  - name: "Nathan Muncy"
+    email: "nmuncy@nd.edu"
+    affiliations:
+      - name: University of Notre Dame
+        address: E308 Corbett Family Hall
+        city: South Bend
+        state: IN
+        postal-code: 46556
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  image-width: 15em
+  # links:
+  #   - icon: email
+  #     text: email
+  #     href: nmuncy@nd.edu
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com/nmuncy
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+---
+
+## Welcome
+
+The Muncy Neuroimaging Research Lab (MNRL) is part of the Department of Psychology at the University of Notre Dame and we are affiliated with the [Decision Neuroscience Lab](https://www.decisionneurosciencelab.org/) and the [Human Neuroimaging Center](https://neuroimaging.nd.edu/).
+
+We conduct primary research using advanced computing, imaging, and statistical techniques on topics such as decision making and traumatic brain injury. We support the Notre Dame Human Neuroimaging Initiative by building multidisciplinary collaborations that incorporate MRI techniques in their research programs.
+
