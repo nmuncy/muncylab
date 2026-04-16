@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Presentations – Home</title>
+<title>Research – Home</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,7 +69,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Presentations – Home">
+<meta property="og:title" content="Research – Home">
+<meta property="og:description" content="">
 <meta property="og:site_name" content="Home">
 </head>
 
@@ -107,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Papers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../pages/research.html"> 
+    <a class="nav-link active" href="../pages/research.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -132,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Presentations</h1>
+<h1 class="title">Research</h1>
 </div>
 
 
@@ -149,11 +150,44 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<ol type="1">
-<li>University of Nebraska-Lincoln Symposium: <a href="https://nmuncy.github.io/unl_symposium_2025_gams/unl_symposium_2025_gams.html">link</a></li>
-</ol>
+<p>Our work centers on four primary pillars: advancing network neuroscience through novel frameworks, identifying sources of variability in traumatic brain injury (TBI) recovery, supporting interdisciplinary collaborations via advanced analytics, and providing mentorship and technical expertise for the university’s imaging infrastructure.</p>
+<section id="network-neuroscience-topological-data-analysis-tda" class="level2">
+<h2 class="anchored" data-anchor-id="network-neuroscience-topological-data-analysis-tda">1. Network Neuroscience: Topological Data Analysis (TDA)</h2>
+<p>We are developing a framework to characterize how the brain’s structural and functional organization relates to complex behavior. Using large, open-source datasets, we apply Topological Data Analysis (TDA) to model MRI network properties.</p>
+<p>Unlike traditional discrete thresholding, TDA allows us to:</p>
+<ul>
+<li>Capture the evolution of topological features across a continuum of edge densities.</li>
+<li>Quantify shape-based properties and identify Euler singularities—points where global organizational properties shift abruptly.</li>
+<li>Link these phase transitions to age, cognitive performance, and clinical symptoms.</li>
+</ul>
+</section>
+<section id="tbi-modeling-recovery-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="tbi-modeling-recovery-outcomes">2. TBI: Modeling Recovery Outcomes</h2>
+<p>We utilize Generalized Additive Models (GAMs) to navigate the high dimensionality and non-linear interactions inherent in neuroimaging and clinical data.</p>
+<ul>
+<li><strong>Pathophysiology &amp; Biomarkers</strong>: Using a dataset of ~2,150 patients, we employ GAMs and tensor product interaction smooths to model longitudinal white matter injury and recovery. This helps identify specific diffusion-based biomarkers that correlate with clinical assessments.</li>
+<li><strong>Socio-Demographic &amp; Geospatial Factors</strong>: In a larger cohort of ~30,000 patients, we investigate the variance in recovery timelines. Recovery can range from days (mild TBI) to years (severe TBI). We model how factors such as age at injury, education and other structural factors, sex, and geographic location (latitude/longitude) interact with socioeconomic status to influence long-term outcomes.</li>
+</ul>
+</section>
+<section id="interdisciplinary-collaboration-advanced-analytics" class="level2">
+<h2 class="anchored" data-anchor-id="interdisciplinary-collaboration-advanced-analytics">3. Interdisciplinary Collaboration &amp; Advanced Analytics</h2>
+<p>We serve as a computational and methodological hub, bridging the gap between high-dimensional neuroimaging data and diverse clinical and psychological applications. By coordinating among diverse groups, we enable researchers to leverage complex datasets.</p>
+<ul>
+<li><strong>Multi-modal Data Fusion</strong>: We implement advanced integration techniques to combine fMRI, DTI, and behavioral metrics, uncovering latent patterns that a single modality would miss.</li>
+<li><strong>Reproducible Workflows &amp; Open Science</strong>: To ensure cross-departmental reliability, we standardize pipelines, and containerized environments (Docker/Singularity). This reduces needless researcher degrees of freedom and ensures that collaborative results are robust and replicable.</li>
+<li><strong>Scalable Analytics via CRC</strong>: We facilitate the transition from desktop-level analysis to high-performance computing (HPC). By optimizing code for Notre Dame’s Center for Research Computing (CRC), we allow collaborators to process massive datasets at scale.</li>
+</ul>
+</section>
+<section id="mentorship-neuroimaging-infrastructure-support" class="level2">
+<h2 class="anchored" data-anchor-id="mentorship-neuroimaging-infrastructure-support">4. Mentorship &amp; Neuroimaging Infrastructure Support</h2>
+<p>We are committed to sustaining the university’s imaging ecosystem by providing the technical expertise necessary for high-fidelity data acquisition and training the next generation of neuroimagers.</p>
+<ul>
+<li><strong>Pedagogical Technical Training</strong>: Beyond theoretical mentorship, we provide hands-on training in neuroimaging physics, preprocessing logic, and signal processing. Our goal is to transform trainees from black-box tool users into researchers who understand the underlying processes which transform their data.</li>
+<li><strong>Consultative Methodological Support</strong>: We act as a resource for the broader university community, assisting in the design of longitudinal imaging studies and power analyses to ensure that nascent projects are methodologically sound and competitive for federal funding (NIH/NSF).</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

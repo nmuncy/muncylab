@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathan Muncy, Ph.D.",
-    "section": "",
-    "text": "I use structural, functional, and diffusion MRI methods to study topics ranging from memory to traumatic brain injury. I am also interested in the application of diverse statistical techniques to cognitive neuroscientific questions."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Nathan Muncy, Ph.D.",
-    "section": "",
-    "text": "I use structural, functional, and diffusion MRI methods to study topics ranging from memory to traumatic brain injury. I am also interested in the application of diverse statistical techniques to cognitive neuroscientific questions."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Nathan Muncy, Ph.D.",
-    "section": "Contact",
-    "text": "Contact\nEmail\nnmuncy at nd dot edu\nAddress\nE308 Corbett Family Hall\nUniversity of Notre Dame\nSouth Bend, IN 46556"
-  },
-  {
-    "objectID": "pages/publications.html",
-    "href": "pages/publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Discrete pre-processing step effects in registration-based pipelines, a preliminary volumetric study on T1-weighted images. Link\nA direct comparison between ERP and fMRI measurements of food-related inhibitory control: Implications for BMI status and dietary intake. Link\nLinguistic networks associated with lexical, semantic and syntactic predictability in reading: A fixation-related fMRI study. Link\nThe effects of sleep on the neural correlates of pattern separation Link\nSleep duration differentially affects brain activation in response to food images in adolescents with overweight/obesity compared to adolescents with normal weight Get access Arrow. Link\nAcute after-school screen time in children decreases impulse control and activation toward high-calorie food stimuli in brain regions related to reward and attention. Link\nNeural mechanisms that promote food consumption following sleep loss and social stress: an fMRI study in adolescent girls with overweight/obesity. Link\nPattern separation beyond the hippocampus: A high-resolution whole-brain investigation of mnemonic discrimination in healthy adults. Link\nGeneral additive models address statistical issues in diffusion MRI: An example with clinically anxious adolescents. Link\n\n\nFile Drawer\n\nCorrecting False Memories: The Effect of Mnemonic Generalization on Original Memory Traces. Link\nThe Medial Temporal Lobe Supports Mnemonic Discrimination For Event Duration. Link"
-  },
-  {
     "objectID": "pages/presentations.html",
     "href": "pages/presentations.html",
     "title": "Presentations",
@@ -35,17 +7,143 @@
     "text": "University of Nebraska-Lincoln Symposium: link"
   },
   {
-    "objectID": "pages/courses.html",
-    "href": "pages/courses.html",
-    "title": "Courses",
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "About",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    "text": "Our research is driven by the philosophy that context (e.g. structural, socioeconomic, geographic, etc.) interacts with neurobiology to influence both how a person recovers from injury; these factors don’t determine a person’s path, but they do significantly shift the probabilities of how they flourish."
+  },
+  {
+    "objectID": "pages/about.html#research-philosophy-interests",
+    "href": "pages/about.html#research-philosophy-interests",
+    "title": "About",
+    "section": "Research Philosophy & Interests",
+    "text": "Research Philosophy & Interests\nWe are interested in translational research that bridges the gap between the environment and biology. By modeling the interplay between socioeconomic factors, neurological health, and cognitive performance, we aim to understand why some individuals flourish while others struggle following a Traumatic Brain Injury (TBI). Our goal is to identify the critical environmental and biological levers that drive recovery and long-term well-being."
+  },
+  {
+    "objectID": "pages/about.html#key-contributions-methodologies",
+    "href": "pages/about.html#key-contributions-methodologies",
+    "title": "About",
+    "section": "Key Contributions & Methodologies",
+    "text": "Key Contributions & Methodologies\nOur lab leverages advanced computational techniques and massive datasets to redefine how we understand brain architecture and injury:\n\nMethodological Innovation: We utilize Topologic Data Analysis (TDA) to move beyond traditional discrete thresholding. This provides a multiscale, topologic description of neural systems, allowing us to identify phase transitions and persistent features in brain organization.\nAdvanced Statistics: To handle the heterogeneity of real-world recovery data, we employ Generalized Additive Models (GAMs). This allows us to resolve complex non-linear interactions and non-Gaussian distributions inherent in longitudinal TBI research.\nLarge-Scale Data Science: Our findings are grounded in high-powered analysis, leveraging national databases with a combined total of over 32,750 subjects.\nHolistic Modeling: We don’t just look at scans; we look at the world. Our research incorporates geospatial and demographic contexts to understand how variables like geography and socioeconomic status create differential recovery outcomes."
+  },
+  {
+    "objectID": "pages/about.html#institutional-support-mentorship",
+    "href": "pages/about.html#institutional-support-mentorship",
+    "title": "About",
+    "section": "Institutional Support & Mentorship",
+    "text": "Institutional Support & Mentorship\nBeyond independent research, Dr. Muncy is committed to elevating the university’s research infrastructure. We support the Neuroscience and Behavior component of Notre Dame’s Health and Well-Being Initiative through:\n\nTechnical Oversight: Implementing and refining MRI research programs across the department.\nMentorship: Providing instruction and shared reference materials for researchers navigating core MRI methodologies."
   },
   {
     "objectID": "pages/wiki.html",
     "href": "pages/wiki.html",
     "title": "Wiki",
     "section": "",
-    "text": "Vestibulum ultrices, tortor at mattis porta, odio nisi rutrum nulla, sit amet tincidunt eros quam facilisis tellus. Fusce eleifend lectus in elementum lacinia. Nam auctor nunc in massa ullamcorper, sit amet auctor ante accumsan. Nam ut varius metus. Curabitur eget tristique leo. Cras finibus euismod erat eget elementum. Integer vel placerat ex. Ut id eros quis lectus lacinia venenatis hendrerit vel ante."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "pages/courses.html",
+    "href": "pages/courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "This page is under construction."
+  },
+  {
+    "objectID": "pages/courses.html#programming",
+    "href": "pages/courses.html#programming",
+    "title": "Courses",
+    "section": "Programming",
+    "text": "Programming\n\nBash Essentials\nPython Programming\nData Management with SQL\nModeling Data in R"
+  },
+  {
+    "objectID": "pages/courses.html#mri-analysis",
+    "href": "pages/courses.html#mri-analysis",
+    "title": "Courses",
+    "section": "MRI Analysis",
+    "text": "MRI Analysis\n\nAnatomic data\nFunctional preprocessing\nFunctional modeling\nDiffusion data"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathan M. Muncy, Ph.D.",
+    "section": "",
+    "text": "The Muncy Neuroimaging Research Lab (MNRL) is part of the Department of Psychology at the University of Notre Dame and we are affiliated with the Decision Neuroscience Lab and the Human Neuroimaging Center.\nWe conduct primary research using advanced computing, imaging, and statistical techniques on topics such as decision making and traumatic brain injury. We support the Notre Dame Human Neuroimaging Initiative by building multidisciplinary collaborations that incorporate MRI techniques in their research programs."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Nathan M. Muncy, Ph.D.",
+    "section": "",
+    "text": "The Muncy Neuroimaging Research Lab (MNRL) is part of the Department of Psychology at the University of Notre Dame and we are affiliated with the Decision Neuroscience Lab and the Human Neuroimaging Center.\nWe conduct primary research using advanced computing, imaging, and statistical techniques on topics such as decision making and traumatic brain injury. We support the Notre Dame Human Neuroimaging Initiative by building multidisciplinary collaborations that incorporate MRI techniques in their research programs."
+  },
+  {
+    "objectID": "pages/research.html",
+    "href": "pages/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Our work centers on four primary pillars: advancing network neuroscience through novel frameworks, identifying sources of variability in traumatic brain injury (TBI) recovery, supporting interdisciplinary collaborations via advanced analytics, and providing mentorship and technical expertise for the university’s imaging infrastructure."
+  },
+  {
+    "objectID": "pages/research.html#network-neuroscience-topological-data-analysis-tda",
+    "href": "pages/research.html#network-neuroscience-topological-data-analysis-tda",
+    "title": "Research",
+    "section": "1. Network Neuroscience: Topological Data Analysis (TDA)",
+    "text": "1. Network Neuroscience: Topological Data Analysis (TDA)\nWe are developing a framework to characterize how the brain’s structural and functional organization relates to complex behavior. Using large, open-source datasets, we apply Topological Data Analysis (TDA) to model MRI network properties.\nUnlike traditional discrete thresholding, TDA allows us to:\n\nCapture the evolution of topological features across a continuum of edge densities.\nQuantify shape-based properties and identify Euler singularities—points where global organizational properties shift abruptly.\nLink these phase transitions to age, cognitive performance, and clinical symptoms."
+  },
+  {
+    "objectID": "pages/research.html#tbi-modeling-recovery-outcomes",
+    "href": "pages/research.html#tbi-modeling-recovery-outcomes",
+    "title": "Research",
+    "section": "2. TBI: Modeling Recovery Outcomes",
+    "text": "2. TBI: Modeling Recovery Outcomes\nWe utilize Generalized Additive Models (GAMs) to navigate the high dimensionality and non-linear interactions inherent in neuroimaging and clinical data.\n\nPathophysiology & Biomarkers: Using a dataset of ~2,150 patients, we employ GAMs and tensor product interaction smooths to model longitudinal white matter injury and recovery. This helps identify specific diffusion-based biomarkers that correlate with clinical assessments.\nSocio-Demographic & Geospatial Factors: In a larger cohort of ~30,000 patients, we investigate the variance in recovery timelines. Recovery can range from days (mild TBI) to years (severe TBI). We model how factors such as age at injury, education and other structural factors, sex, and geographic location (latitude/longitude) interact with socioeconomic status to influence long-term outcomes."
+  },
+  {
+    "objectID": "pages/research.html#interdisciplinary-collaboration-advanced-analytics",
+    "href": "pages/research.html#interdisciplinary-collaboration-advanced-analytics",
+    "title": "Research",
+    "section": "3. Interdisciplinary Collaboration & Advanced Analytics",
+    "text": "3. Interdisciplinary Collaboration & Advanced Analytics\nWe serve as a computational and methodological hub, bridging the gap between high-dimensional neuroimaging data and diverse clinical and psychological applications. By coordinating among diverse groups, we enable researchers to leverage complex datasets.\n\nMulti-modal Data Fusion: We implement advanced integration techniques to combine fMRI, DTI, and behavioral metrics, uncovering latent patterns that a single modality would miss.\nReproducible Workflows & Open Science: To ensure cross-departmental reliability, we standardize pipelines, and containerized environments (Docker/Singularity). This reduces needless researcher degrees of freedom and ensures that collaborative results are robust and replicable.\nScalable Analytics via CRC: We facilitate the transition from desktop-level analysis to high-performance computing (HPC). By optimizing code for Notre Dame’s Center for Research Computing (CRC), we allow collaborators to process massive datasets at scale."
+  },
+  {
+    "objectID": "pages/research.html#mentorship-neuroimaging-infrastructure-support",
+    "href": "pages/research.html#mentorship-neuroimaging-infrastructure-support",
+    "title": "Research",
+    "section": "4. Mentorship & Neuroimaging Infrastructure Support",
+    "text": "4. Mentorship & Neuroimaging Infrastructure Support\nWe are committed to sustaining the university’s imaging ecosystem by providing the technical expertise necessary for high-fidelity data acquisition and training the next generation of neuroimagers.\n\nPedagogical Technical Training: Beyond theoretical mentorship, we provide hands-on training in neuroimaging physics, preprocessing logic, and signal processing. Our goal is to transform trainees from black-box tool users into researchers who understand the underlying processes which transform their data.\nConsultative Methodological Support: We act as a resource for the broader university community, assisting in the design of longitudinal imaging studies and power analyses to ensure that nascent projects are methodologically sound and competitive for federal funding (NIH/NSF)."
+  },
+  {
+    "objectID": "pages/affiliations.html",
+    "href": "pages/affiliations.html",
+    "title": "Affiliations",
+    "section": "",
+    "text": "Assistant Research Professor | Univeristy of Notre Dame\nAdjunct Professor | University of Nebraska-Lincoln"
+  },
+  {
+    "objectID": "pages/affiliations.html#current-affiliations",
+    "href": "pages/affiliations.html#current-affiliations",
+    "title": "Affiliations",
+    "section": "",
+    "text": "Assistant Research Professor | Univeristy of Notre Dame\nAdjunct Professor | University of Nebraska-Lincoln"
+  },
+  {
+    "objectID": "pages/affiliations.html#previous-appointments",
+    "href": "pages/affiliations.html#previous-appointments",
+    "title": "Affiliations",
+    "section": "Previous Appointments",
+    "text": "Previous Appointments\n\nResearch Assistant Professor | University of Nebraska-Lincoln | 2024-2025\nResearch Associate | Duke University | 2022-2024"
+  },
+  {
+    "objectID": "pages/affiliations.html#education",
+    "href": "pages/affiliations.html#education",
+    "title": "Affiliations",
+    "section": "Education",
+    "text": "Education\n\nPostdoctoral Fellow | Florida International University | 2020-2022\nPh.D. Psychology - Cognitive Neuroscience | Brigham Young University | 2016-2020\nM.Sc. Neuroscience | Brigham Young University | 2014-2016\nB.Sc. Psychology | Brigham Young University-Idaho | 2008-2013"
+  },
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Discrete pre-processing step effects in registration-based pipelines, a preliminary volumetric study on T1-weighted images. Link\nA direct comparison between ERP and fMRI measurements of food-related inhibitory control: Implications for BMI status and dietary intake. Link\nLinguistic networks associated with lexical, semantic and syntactic predictability in reading: A fixation-related fMRI study. Link\nThe effects of sleep on the neural correlates of pattern separation Link\nSleep duration differentially affects brain activation in response to food images in adolescents with overweight/obesity compared to adolescents with normal weight Get access Arrow. Link\nAcute after-school screen time in children decreases impulse control and activation toward high-calorie food stimuli in brain regions related to reward and attention. Link\nNeural mechanisms that promote food consumption following sleep loss and social stress: an fMRI study in adolescent girls with overweight/obesity. Link\nPattern separation beyond the hippocampus: A high-resolution whole-brain investigation of mnemonic discrimination in healthy adults. Link\nGeneral additive models address statistical issues in diffusion MRI: An example with clinically anxious adolescents. Link\n\n\nFile Drawer\n\nCorrecting False Memories: The Effect of Mnemonic Generalization on Original Memory Traces. Link\nThe Medial Temporal Lobe Supports Mnemonic Discrimination For Event Duration. Link"
   }
 ]

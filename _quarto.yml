@@ -9,10 +9,18 @@ website:
     title: false
     logo: media/nd_logo.png
     right:
+      - text: About
+        href: pages/about.qmd
+      - text: Affiliations
+        href: pages/affiliations.qmd
       - text: Courses
         href: pages/courses.qmd
       - text: Papers
         href: pages/publications.qmd
+      # - text: People
+      #   href: pages/people.qmd
+      - text: Research
+        href: pages/research.qmd
       # - text: Presentations
       #   href: pages/presentations.qmd
       # - text: Wiki

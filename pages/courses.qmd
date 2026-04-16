@@ -2,4 +2,16 @@
 title: Courses
 ---
 
-{{< lipsum 1 >}}
+This page is under construction.
+
+## Programming
+- [Bash Essentials](https://nmuncy.github.io/course-basic_bash/)
+- Python Programming
+- Data Management with SQL
+- Modeling Data in R
+
+## MRI Analysis
+- [Anatomic data](https://nmuncy.github.io/course-mri_anat/)
+- Functional preprocessing
+- Functional modeling
+- Diffusion data

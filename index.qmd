@@ -1,17 +1,23 @@
 ---
-title: "Nathan Muncy, Ph.D."
+title: "Nathan M. Muncy, Ph.D."
 subtitle: "Assistant Research Professor | Cognitive Neuroscience"
-image: media/muncy_head.png
-# author:
-#   name: "Nathan Muncy"
-#   email: "nmuncy@nd.edu"
+image: media/muncy_head.jpg
+author:
+  - name: "Nathan Muncy"
+    email: "nmuncy@nd.edu"
+    affiliations:
+      - name: University of Notre Dame
+        address: E308 Corbett Family Hall
+        city: South Bend
+        state: IN
+        postal-code: 46556
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   image-width: 15em
   # links:
-  #     - icon: email
-  #       text: email
-  #       href: nmuncy@nd.edu
+  #   - icon: email
+  #     text: email
+  #     href: nmuncy@nd.edu
   #   - icon: github
   #     text: Github
   #     href: https://github.com/nmuncy
@@ -20,29 +26,9 @@ about: # https://quarto.org/docs/websites/website-about.html
     #   href: https://linkedin.com
 ---
 
-## About
+## Welcome
 
-I use structural, functional, and diffusion MRI methods to study topics ranging from memory to traumatic brain injury. I am also interested in the application of diverse statistical techniques to cognitive neuroscientific questions.
+The Muncy Neuroimaging Research Lab (MNRL) is part of the Department of Psychology at the University of Notre Dame and we are affiliated with the [Decision Neuroscience Lab](https://www.decisionneurosciencelab.org/) and the [Human Neuroimaging Center](https://neuroimaging.nd.edu/).
 
+We conduct primary research using advanced computing, imaging, and statistical techniques on topics such as decision making and traumatic brain injury. We support the Notre Dame Human Neuroimaging Initiative by building multidisciplinary collaborations that incorporate MRI techniques in their research programs.
 
-## Contact
-__Email__\
-nmuncy at nd dot edu
-
-__Address__\
-E308 Corbett Family Hall\
-University of Notre Dame\
-South Bend, IN 46556
-
-
-<!-- ## Education
-
-* Postdoctoral Fellow | Duke University, Durham NC | 2022 - 2024
-* Postdoctoral Fellow | Florida International University, Miami FL | 2020 - 2022
-* Ph.D. Cognitive Neuroscience | Brigham Young University, Provo UT | 2016 - 2020
-* M.Sc. Neuroscience | Brigham Young University, Provo UT | 2014 - 2016
-* B.Sc. Psychology | Brigham Young University-Idaho, Rexburg ID | 2009 - 2013 -->
-
-<!-- ## Experience
-
-Workplace \| Job title \| April 20XX - present -->
