@@ -1,10 +1,59 @@
 [
   {
-    "objectID": "pages/presentations.html",
-    "href": "pages/presentations.html",
-    "title": "Presentations",
+    "objectID": "pages/wiki.html",
+    "href": "pages/wiki.html",
+    "title": "Wiki",
     "section": "",
-    "text": "University of Nebraska-Lincoln Symposium: link"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Discrete pre-processing step effects in registration-based pipelines, a preliminary volumetric study on T1-weighted images. Link\nA direct comparison between ERP and fMRI measurements of food-related inhibitory control: Implications for BMI status and dietary intake. Link\nLinguistic networks associated with lexical, semantic and syntactic predictability in reading: A fixation-related fMRI study. Link\nThe effects of sleep on the neural correlates of pattern separation Link\nSleep duration differentially affects brain activation in response to food images in adolescents with overweight/obesity compared to adolescents with normal weight Get access Arrow. Link\nAcute after-school screen time in children decreases impulse control and activation toward high-calorie food stimuli in brain regions related to reward and attention. Link\nNeural mechanisms that promote food consumption following sleep loss and social stress: an fMRI study in adolescent girls with overweight/obesity. Link\nPattern separation beyond the hippocampus: A high-resolution whole-brain investigation of mnemonic discrimination in healthy adults. Link\nGeneral additive models address statistical issues in diffusion MRI: An example with clinically anxious adolescents. Link\n\n\nFile Drawer\n\nCorrecting False Memories: The Effect of Mnemonic Generalization on Original Memory Traces. Link\nThe Medial Temporal Lobe Supports Mnemonic Discrimination For Event Duration. Link"
+  },
+  {
+    "objectID": "pages/affiliations.html",
+    "href": "pages/affiliations.html",
+    "title": "Affiliations",
+    "section": "",
+    "text": "Assistant Research Professor | Univeristy of Notre Dame\nAdjunct Professor | University of Nebraska-Lincoln"
+  },
+  {
+    "objectID": "pages/affiliations.html#current-affiliations",
+    "href": "pages/affiliations.html#current-affiliations",
+    "title": "Affiliations",
+    "section": "",
+    "text": "Assistant Research Professor | Univeristy of Notre Dame\nAdjunct Professor | University of Nebraska-Lincoln"
+  },
+  {
+    "objectID": "pages/affiliations.html#previous-appointments",
+    "href": "pages/affiliations.html#previous-appointments",
+    "title": "Affiliations",
+    "section": "Previous Appointments",
+    "text": "Previous Appointments\n\nResearch Assistant Professor | University of Nebraska-Lincoln | 2024-2025\nResearch Associate | Duke University | 2022-2024"
+  },
+  {
+    "objectID": "pages/affiliations.html#education",
+    "href": "pages/affiliations.html#education",
+    "title": "Affiliations",
+    "section": "Education",
+    "text": "Education\n\nPostdoctoral Fellow | Florida International University | 2020-2022\nPh.D. Psychology - Cognitive Neuroscience | Brigham Young University | 2016-2020\nM.Sc. Neuroscience | Brigham Young University | 2014-2016\nB.Sc. Psychology | Brigham Young University-Idaho | 2008-2013"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathan M. Muncy, Ph.D.",
+    "section": "",
+    "text": "The Muncy Neuroimaging Research Lab (MNRL) is part of the Department of Psychology at the University of Notre Dame and we are affiliated with the Decision Neuroscience Lab and the Human Neuroimaging Center.\nWe conduct primary research using advanced computing, imaging, and statistical techniques on topics such as decision making and traumatic brain injury. We support the Notre Dame Human Neuroimaging Initiative by building multidisciplinary collaborations that incorporate MRI techniques in their research programs."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Nathan M. Muncy, Ph.D.",
+    "section": "",
+    "text": "The Muncy Neuroimaging Research Lab (MNRL) is part of the Department of Psychology at the University of Notre Dame and we are affiliated with the Decision Neuroscience Lab and the Human Neuroimaging Center.\nWe conduct primary research using advanced computing, imaging, and statistical techniques on topics such as decision making and traumatic brain injury. We support the Notre Dame Human Neuroimaging Initiative by building multidisciplinary collaborations that incorporate MRI techniques in their research programs."
   },
   {
     "objectID": "pages/about.html",
@@ -35,13 +84,6 @@
     "text": "Institutional Support & Mentorship\nBeyond independent research, Dr. Muncy is committed to elevating the university’s research infrastructure. We support the Neuroscience and Behavior component of Notre Dame’s Health and Well-Being Initiative through:\n\nTechnical Oversight: Implementing and refining MRI research programs across the department.\nMentorship: Providing instruction and shared reference materials for researchers navigating core MRI methodologies."
   },
   {
-    "objectID": "pages/wiki.html",
-    "href": "pages/wiki.html",
-    "title": "Wiki",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
     "objectID": "pages/courses.html",
     "href": "pages/courses.html",
     "title": "Courses",
@@ -63,18 +105,11 @@
     "text": "MRI Analysis\n\nAnatomic data\nFunctional preprocessing\nFunctional modeling\nDiffusion data"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathan M. Muncy, Ph.D.",
+    "objectID": "pages/presentations.html",
+    "href": "pages/presentations.html",
+    "title": "Presentations",
     "section": "",
-    "text": "The Muncy Neuroimaging Research Lab (MNRL) is part of the Department of Psychology at the University of Notre Dame and we are affiliated with the Decision Neuroscience Lab and the Human Neuroimaging Center.\nWe conduct primary research using advanced computing, imaging, and statistical techniques on topics such as decision making and traumatic brain injury. We support the Notre Dame Human Neuroimaging Initiative by building multidisciplinary collaborations that incorporate MRI techniques in their research programs."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Nathan M. Muncy, Ph.D.",
-    "section": "",
-    "text": "The Muncy Neuroimaging Research Lab (MNRL) is part of the Department of Psychology at the University of Notre Dame and we are affiliated with the Decision Neuroscience Lab and the Human Neuroimaging Center.\nWe conduct primary research using advanced computing, imaging, and statistical techniques on topics such as decision making and traumatic brain injury. We support the Notre Dame Human Neuroimaging Initiative by building multidisciplinary collaborations that incorporate MRI techniques in their research programs."
+    "text": "University of Nebraska-Lincoln Symposium: link"
   },
   {
     "objectID": "pages/research.html",
@@ -110,40 +145,5 @@
     "title": "Research",
     "section": "4. Mentorship & Neuroimaging Infrastructure Support",
     "text": "4. Mentorship & Neuroimaging Infrastructure Support\nWe are committed to sustaining the university’s imaging ecosystem by providing the technical expertise necessary for high-fidelity data acquisition and training the next generation of neuroimagers.\n\nPedagogical Technical Training: Beyond theoretical mentorship, we provide hands-on training in neuroimaging physics, preprocessing logic, and signal processing. Our goal is to transform trainees from black-box tool users into researchers who understand the underlying processes which transform their data.\nConsultative Methodological Support: We act as a resource for the broader university community, assisting in the design of longitudinal imaging studies and power analyses to ensure that nascent projects are methodologically sound and competitive for federal funding (NIH/NSF)."
-  },
-  {
-    "objectID": "pages/affiliations.html",
-    "href": "pages/affiliations.html",
-    "title": "Affiliations",
-    "section": "",
-    "text": "Assistant Research Professor | Univeristy of Notre Dame\nAdjunct Professor | University of Nebraska-Lincoln"
-  },
-  {
-    "objectID": "pages/affiliations.html#current-affiliations",
-    "href": "pages/affiliations.html#current-affiliations",
-    "title": "Affiliations",
-    "section": "",
-    "text": "Assistant Research Professor | Univeristy of Notre Dame\nAdjunct Professor | University of Nebraska-Lincoln"
-  },
-  {
-    "objectID": "pages/affiliations.html#previous-appointments",
-    "href": "pages/affiliations.html#previous-appointments",
-    "title": "Affiliations",
-    "section": "Previous Appointments",
-    "text": "Previous Appointments\n\nResearch Assistant Professor | University of Nebraska-Lincoln | 2024-2025\nResearch Associate | Duke University | 2022-2024"
-  },
-  {
-    "objectID": "pages/affiliations.html#education",
-    "href": "pages/affiliations.html#education",
-    "title": "Affiliations",
-    "section": "Education",
-    "text": "Education\n\nPostdoctoral Fellow | Florida International University | 2020-2022\nPh.D. Psychology - Cognitive Neuroscience | Brigham Young University | 2016-2020\nM.Sc. Neuroscience | Brigham Young University | 2014-2016\nB.Sc. Psychology | Brigham Young University-Idaho | 2008-2013"
-  },
-  {
-    "objectID": "pages/publications.html",
-    "href": "pages/publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Discrete pre-processing step effects in registration-based pipelines, a preliminary volumetric study on T1-weighted images. Link\nA direct comparison between ERP and fMRI measurements of food-related inhibitory control: Implications for BMI status and dietary intake. Link\nLinguistic networks associated with lexical, semantic and syntactic predictability in reading: A fixation-related fMRI study. Link\nThe effects of sleep on the neural correlates of pattern separation Link\nSleep duration differentially affects brain activation in response to food images in adolescents with overweight/obesity compared to adolescents with normal weight Get access Arrow. Link\nAcute after-school screen time in children decreases impulse control and activation toward high-calorie food stimuli in brain regions related to reward and attention. Link\nNeural mechanisms that promote food consumption following sleep loss and social stress: an fMRI study in adolescent girls with overweight/obesity. Link\nPattern separation beyond the hippocampus: A high-resolution whole-brain investigation of mnemonic discrimination in healthy adults. Link\nGeneral additive models address statistical issues in diffusion MRI: An example with clinically anxious adolescents. Link\n\n\nFile Drawer\n\nCorrecting False Memories: The Effect of Mnemonic Generalization on Original Memory Traces. Link\nThe Medial Temporal Lobe Supports Mnemonic Discrimination For Event Duration. Link"
   }
 ]

@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    -"resources/*.pdf"
+  render:
+    - "*.qmd"
+    - "*.Rmd"
 
 website:
   title: "Home"

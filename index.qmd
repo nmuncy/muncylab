@@ -11,6 +11,10 @@ author:
         city: South Bend
         state: IN
         postal-code: 46556
+date: today
+toc: false
+execute:
+  freeze: auto
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   image-width: 15em
