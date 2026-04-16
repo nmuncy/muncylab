@@ -23,8 +23,8 @@ website:
         href: pages/courses.qmd
       - text: Papers
         href: pages/publications.qmd
-      # - text: People
-      #   href: pages/people.qmd
+      - text: People
+        href: pages/people.qmd
       - text: Research
         href: pages/research.qmd
       # - text: Presentations

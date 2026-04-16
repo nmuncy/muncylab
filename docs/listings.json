@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/pages/people.html",
+    "items": [
+      "/pages/about.html",
+      "/pages/affiliations.html",
+      "/pages/courses.html",
+      "/pages/presentations.html",
+      "/pages/publications.html",
+      "/pages/research.html",
+      "/pages/wiki.html"
+    ]
+  }
+]

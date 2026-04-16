@@ -2,3 +2,17 @@
 title: People
 ---
 
+
+## Undergraduate Researchers
+
+
+![](../people/minion.jpg){width=300}
+
+**Foo Bar**
+
+**Expected Graduation**: 2030
+
+**Project**:
+
+**Biosketch**:
+
